@@ -7,10 +7,10 @@ Bomb Tag
 </h1>
 
 <p align="center">
-A simple game build using python. Bomb tag game allows players to fight for their lives (Pushing the bomb away from them). Once the bomb has reached the opponent life line, the player wins.
+This is a simple python game. Players can struggle for their life in the bomb tag game (Pushing the bomb away from them). The player wins when the bomb reaches the opponent's life line.
   <br>
   <br>
-  The opponents runs async. It gets harder based on chosen difficulty.
+  The opponent is running in asynchronous mode. It becomes more tough when the level of difficulty is increased.
 </p>
 
 
