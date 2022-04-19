@@ -36,3 +36,12 @@ This is a simple python game. Players can struggle for their life in the bomb ta
 •	Keeping pressing '**a**' key to avoid being bombed or losing.
 
 ![Select difficulty of opponent](/GameFootage/battle.png)
+
+
+## License
+
+Distributed under the MIT License. See [LICENSE](/LICENSE) for more information.
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](/LICENSE)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
